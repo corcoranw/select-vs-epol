@@ -13,7 +13,7 @@
 --	DESIGNERS:		Design based on various code snippets found on C10K links
 --				Modified and improved: Aman Abdulla - February 2008
 --
---	PROGRAMMERS:		Aman Abdulla
+--	PROGRAMMERS:		Aman Abdulla, William Corcoran, Jordan Lin
 --
 --	NOTES:
 --	The program will accept TCP connections from client machines.
