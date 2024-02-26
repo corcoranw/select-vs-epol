@@ -18,7 +18,7 @@
 --				Modified & redesigned: Aman Abdulla: February 16, 2001
 --
 --				
---	PROGRAMMER:		Aman Abdulla
+--	PROGRAMMER:		Aman Abdulla, William Corcoran, Jordan Lin
 --
 --	NOTES:
 --	The program will accept TCP connections from multiple client machines.
